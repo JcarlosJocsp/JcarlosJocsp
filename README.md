@@ -1,7 +1,7 @@
 ### Olá! Eu sou o João Carlos 👋
 
 - 🔭 Hoje trabalho com: Analise de Dados 
-- 🌱 Estudando: Cloud
+- 📚 Estudando: Cloud
 - 🛠  Skills: Sql, PL/Sql, Power BI, Azure 
 
 ##
