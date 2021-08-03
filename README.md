@@ -1,7 +1,10 @@
 ### Olá! Eu sou o João Carlos 👋
 
-- 🔭 Hoje trabalho com Analise de Dados 
-- 🌱 Estudando Power BI
+- 🔭 Hoje trabalho com: Analise de Dados 
+- 🌱 Estudando: Cloud
+- 🛠  Skills: Sql, PL/Sql, Power BI, Azure 
+
+##
 
  <div>
   <a href="https://github.com/JcarlosJocsp">
