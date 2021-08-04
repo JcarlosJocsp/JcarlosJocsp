@@ -30,3 +30,13 @@
 <div> 
   <a href="https://www.linkedin.com/in/joao-carlos-analista-dedados" target="_blank"><img align="center" alt="João-oracle" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>
 </div>
+  
+##
+
+  Certificações
+<div> 
+  <img align="center" alt="João-oracle" height="170" width="170" src="https://eadn-wc03-4064062.nxedge.io/cdn/wp-content/uploads/2021/04/DataAnalyst_Icon-1.png" target="_blank"></a>
+</div>
+  
+  
+  
