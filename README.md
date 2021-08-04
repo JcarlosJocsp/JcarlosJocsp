@@ -1,12 +1,12 @@
 ### Olá! Eu sou o João Carlos 👋
 
-- <img align="center" alt="João-oracle" height="25" width="25" src="https://image.flaticon.com/icons/png/128/4237/4237045.png"> Hoje trabalho com: Analise de Dados 
+- <img align="center" alt="João-oracle" height="25" width="25" src="https://image.flaticon.com/icons/png/128/4237/4237045.png"> Today I work with: Data Analysis
 
-- <img align="center" alt="João-oracle" height="25" width="25" src="https://image.flaticon.com/icons/png/128/747/747086.png"> Estudando: Cloud
+- <img align="center" alt="João-oracle" height="25" width="25" src="https://image.flaticon.com/icons/png/128/747/747086.png"> Studying: Cloud
 
-- <img align="center" alt="João-oracle" height="25" width="25" src="https://image.flaticon.com/icons/png/128/2091/2091418.png"> Skills: Sql, PL/Sql, Modelagem, Power BI, Dax, Azure 
+- <img align="center" alt="João-oracle" height="25" width="25" src="https://image.flaticon.com/icons/png/128/2091/2091418.png"> Skills: Sql, PL/Sql, Modeling, Power BI, Dax, Azure 
 
-- <img align="center" alt="João-oracle" height="25" width="25" src="https://image.flaticon.com/icons/png/128/484/484531.png"> Idiomas: 
+- <img align="center" alt="João-oracle" height="25" width="25" src="https://image.flaticon.com/icons/png/128/484/484531.png"> Languages: 
               <img align="center" alt="João-oracle" height="25" width="25" src="https://image.flaticon.com/icons/png/128/630/630591.png">
               <img align="center" alt="João-oracle" height="25" width="25" src="https://image.flaticon.com/icons/png/128/330/330459.png">
              
