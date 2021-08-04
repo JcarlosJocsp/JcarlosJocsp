@@ -4,7 +4,7 @@
 
 - <img align="center" alt="João-oracle" height="25" width="25" src="https://image.flaticon.com/icons/png/128/747/747086.png"> Estudando: Cloud
 
-- <img align="center" alt="João-oracle" height="25" width="25" src="https://image.flaticon.com/icons/png/128/2091/2091418.png"> Skills: Sql, PL/Sql, Power BI, Dax, Azure 
+- <img align="center" alt="João-oracle" height="25" width="25" src="https://image.flaticon.com/icons/png/128/2091/2091418.png"> Skills: Sql, PL/Sql, Modelagem, Power BI, Dax, Azure 
 
 - <img align="center" alt="João-oracle" height="25" width="25" src="https://image.flaticon.com/icons/png/128/484/484531.png"> Idiomas: 
               <img align="center" alt="João-oracle" height="25" width="25" src="https://image.flaticon.com/icons/png/128/630/630591.png">
@@ -21,6 +21,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="João-oracle" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
   <img align="center" alt="João-oracle" height="40" width="40" src="https://image.flaticon.com/icons/png/512/2772/2772128.png">
+  <img align="center" alt="João-oracle" height="50" width="50" src="https://dashboard.snapcraft.io/site_media/appmedia/2016/08/icon256.png">
   <img align="center" alt="João-oracle" height="50" width="50" src="https://img.icons8.com/color/2x/power-bi.png">
   <img align="center" alt="João-oracle" height="40" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/DAX_logo.svg/1280px-DAX_logo.svg.png">
   <img align="center" alt="João-oracle" height="50" width="50" src="https://image.flaticon.com/icons/png/512/873/873107.png">
