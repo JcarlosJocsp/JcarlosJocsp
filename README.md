@@ -3,6 +3,7 @@
 - 🔭 Hoje trabalho com: Analise de Dados 
 - 📚 Estudando: Cloud
 - 🛠  Skills: Sql, PL/Sql, Power BI, Azure 
+- 🗨 Idiomas: <img align="center" alt="João-oracle" height="30" width="30" src="https://image.flaticon.com/icons/png/128/630/630591.png">
 
 ##
 
