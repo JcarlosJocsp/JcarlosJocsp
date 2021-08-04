@@ -23,6 +23,7 @@
   <img align="center" alt="João-oracle" height="40" width="40" src="https://image.flaticon.com/icons/png/512/2772/2772128.png">
   <img align="center" alt="João-oracle" height="50" width="50" src="https://img.icons8.com/color/2x/power-bi.png">
   <img align="center" alt="João-oracle" height="50" width="50" src="https://image.flaticon.com/icons/png/512/873/873107.png">
+  <img align="center" alt="João-oracle" height="40" width="90" src="https://azure.microsoft.com/svghandler/synapse-analytics/?width=600&height=315">
 </div>
  
  ##
