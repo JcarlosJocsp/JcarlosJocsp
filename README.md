@@ -1,8 +1,8 @@
 ### Olá! Eu sou o João Carlos 👋
 
-- <img align="center" alt="João-oracle" height="30" width="30" src="https://image.flaticon.com/icons/png/128/4237/4237045.png"> Hoje trabalho com: Analise de Dados 
-- 📚 Estudando: Cloud
-- 🛠  Skills: Sql, PL/Sql, Power BI, Azure 
+- <img align="center" alt="João-oracle" height="25" width="25" src="https://image.flaticon.com/icons/png/128/4237/4237045.png"> Hoje trabalho com: Analise de Dados 
+- <img align="center" alt="João-oracle" height="25" width="25" src="https://image.flaticon.com/icons/png/128/747/747086.png"> Estudando: Cloud
+- <img align="center" alt="João-oracle" height="25" width="25" src="https://image.flaticon.com/icons/png/128/2091/2091418.png"> Skills: Sql, PL/Sql, Power BI, Azure 
 - <img align="center" alt="João-oracle" height="15" width="15" src="https://image.flaticon.com/icons/png/128/484/484531.png"> Idiomas: 
               <img align="center" alt="João-oracle" height="25" width="25" src="https://image.flaticon.com/icons/png/128/630/630591.png">
               <img align="center" alt="João-oracle" height="25" width="25" src="https://image.flaticon.com/icons/png/128/330/330459.png">
