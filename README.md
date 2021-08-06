@@ -18,7 +18,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JcarlosJocsp&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-  
 <div style="display: inline_block"><br>
   <img align="center" alt="João-oracle" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"> &nbsp
   <img align="center" alt="João-oracle" height="40" width="40" src="https://image.flaticon.com/icons/png/512/2772/2772128.png"> &nbsp
