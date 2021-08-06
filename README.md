@@ -34,7 +34,7 @@
 </div>
   
   
-
+<!--
   ##
   Certificações
   <div>
@@ -44,4 +44,5 @@
   <img align="center" alt="João-oracle" height="135" width="135" src="https://eadn-wc03-4064062.nxedge.io/cdn/wp-content/uploads/2021/04/DataAnalyst_Icon-1.png">
  </div> 
 
+>
  
