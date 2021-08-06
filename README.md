@@ -17,6 +17,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JcarlosJocsp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JcarlosJocsp&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="João-oracle" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"> &nbsp
@@ -33,7 +34,7 @@
 </div>
   
   
-<!--
+
   ##
   Certificações
   <div>
@@ -42,5 +43,5 @@
   <img align="center" alt="João-oracle" height="120" width="120" src="https://eadn-wc03-4064062.nxedge.io/cdn/wp-content/uploads/2020/02/Azure.Fundamental_Icon.png"> 
   <img align="center" alt="João-oracle" height="135" width="135" src="https://eadn-wc03-4064062.nxedge.io/cdn/wp-content/uploads/2021/04/DataAnalyst_Icon-1.png">
  </div> 
->
+
  
