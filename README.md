@@ -15,8 +15,8 @@
  <div>
   <a href="https://github.com/JcarlosJocsp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JcarlosJocsp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JcarlosJocsp&layout=compact&langs_count=7&theme=dark"/>
-</div> 
+ <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JcarlosJocsp&layout=compact&langs_count=7&theme=dark"/>
+</div> -->
   
 
 <div style="display: inline_block"><br>
@@ -45,5 +45,5 @@
   <img align="center" alt="João-oracle" height="135" width="135" src="https://eadn-wc03-4064062.nxedge.io/cdn/wp-content/uploads/2021/04/DataAnalyst_Icon-1.png">
  </div> 
 
->
+-->
  
