@@ -31,7 +31,7 @@
  ##
 <div> 
   <a href="https://www.linkedin.com/in/joao-carlos-analista-dedados" target="_blank"><img align="center" alt="João-oracle" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> &nbsp
-<a href="https://www.linkedin.com/in/joao-carlos-analista-dedados" target="_blank"><img align="center" alt="João-oracle" height="55" width="55" src="https://image.flaticon.com/icons/png/512/3347/3347919.png" target="_blank"></a> 
+<!-- <a href="https://www.linkedin.com/in/joao-carlos-analista-dedados" target="_blank"><img align="center" alt="João-oracle" height="55" width="55" src="https://image.flaticon.com/icons/png/512/3347/3347919.png" target="_blank"></a> 
 </div> 
   
   
@@ -45,5 +45,5 @@
   <img align="center" alt="João-oracle" height="135" width="135" src="https://eadn-wc03-4064062.nxedge.io/cdn/wp-content/uploads/2021/04/DataAnalyst_Icon-1.png">
  </div> 
 
-
+-->
  
