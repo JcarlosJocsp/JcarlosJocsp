@@ -2,7 +2,7 @@
 
 - <img align="center" alt="João-oracle" height="25" width="25" src="https://image.flaticon.com/icons/png/128/4237/4237045.png"> Today I work with: Data Analysis
 
-- <img align="center" alt="João-oracle" height="25" width="25" src="https://image.flaticon.com/icons/png/128/747/747086.png"> Studying: Cloud
+- <img align="center" alt="João-oracle" height="25" width="25" src="https://image.flaticon.com/icons/png/128/1081/1081040.png"> Studying: Cloud
 
 - <img align="center" alt="João-oracle" height="25" width="25" src="https://image.flaticon.com/icons/png/128/2091/2091418.png"> Skills: Sql, PL/Sql, Modeling, Power BI, Dax, Azure 
 
