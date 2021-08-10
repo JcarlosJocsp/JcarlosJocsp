@@ -9,7 +9,7 @@
 - <img align="center" alt="João-oracle" height="25" width="25" src="https://image.flaticon.com/icons/png/128/484/484531.png"> Languages: 
               <img align="center" alt="João-oracle" height="25" width="25" src="https://image.flaticon.com/icons/png/128/630/630591.png">
               <img align="center" alt="João-oracle" height="25" width="25" src="https://image.flaticon.com/icons/png/128/330/330459.png">
-             <!-- <img align="center" alt="João-oracle" height="25" width="25" src="https://image.flaticon.com/icons/png/128/330/330557.png"> -->
+              <img align="center" alt="João-oracle" height="25" width="25" src="https://image.flaticon.com/icons/png/128/330/330557.png">
 ##
 
  <div>
@@ -31,11 +31,11 @@
  ##
 <div> 
   <a href="https://www.linkedin.com/in/joao-carlos-analista-dedados" target="_blank"><img align="center" alt="João-oracle" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> &nbsp
-<!-- <a href="https://www.linkedin.com/in/joao-carlos-analista-dedados" target="_blank"><img align="center" alt="João-oracle" height="50" width="50" src="https://image.flaticon.com/icons/png/128/2345/2345596.png" target="_blank"></a> -->
+ <a href="https://www.linkedin.com/in/joao-carlos-analista-dedados" target="_blank"><img align="center" alt="João-oracle" height="50" width="50" src="https://image.flaticon.com/icons/png/128/2345/2345596.png" target="_blank"></a> 
 </div> 
   
   
-<!--
+
   ##
   Certificações
   <div>
@@ -45,5 +45,4 @@
   <img align="center" alt="João-oracle" height="135" width="135" src="https://eadn-wc03-4064062.nxedge.io/cdn/wp-content/uploads/2021/04/DataAnalyst_Icon-1.png">
  </div> 
 
--->
  
