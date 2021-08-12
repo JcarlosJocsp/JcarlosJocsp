@@ -1,6 +1,6 @@
 ### Hi! I am João Carlos 👋
 
-- <img align="center" alt="João-oracle" height="25" width="25" src="https://image.flaticon.com/icons/png/128/4237/4237045.png"> Today I work with: Data Analysis
+<!--- <img align="center" alt="João-oracle" height="25" width="25" src="https://image.flaticon.com/icons/png/128/4237/4237045.png"> Today I work with: Data Analysis -->
 
 - <img align="center" alt="João-oracle" height="25" width="25" src="https://image.flaticon.com/icons/png/128/747/747086.png"> Studying: Cloud
 
