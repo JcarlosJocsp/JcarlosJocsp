@@ -26,7 +26,7 @@
   <img align="center" alt="João-oracle" height="50" width="50" src="https://img.icons8.com/color/2x/power-bi.png"> &nbsp
   <img align="center" alt="João-oracle" height="45" width="45" src="https://img.icons8.com/fluency/2x/microsoft-power-automate-2020.png"> &nbsp
   <img align="center" alt="João-oracle" height="40" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/DAX_logo.svg/1280px-DAX_logo.svg.png"> &nbsp
-  <img align="center" alt="João-oracle" height="50" width="50" src="https://image.flaticon.com/icons/png/512/873/873107.png"> &nbsp
+  <img align="center" alt="João-oracle" height="50" width="50" src="https://img.icons8.com/color/2x/azure-1.png"> &nbsp
 </div>
  
  ##
