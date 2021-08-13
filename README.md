@@ -21,7 +21,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="João-oracle" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"> &nbsp
-  <img align="center" alt="João-oracle" height="40" width="40" src="https://img2.pngio.com/toad-png-frog-and-toad-cartoon-toad-toad-silhouette-american-toad-bullies-png-260_260.jpg"> &nbsp
+  <img align="center" alt="João-oracle" height="40" width="40" src="https://thumbnail.imgbin.com/19/12/14/imgbin-oracle-sql-developer-oracle-database-pl-sql-oracle-application-express-sql-server-icon-cylindrical-gray-and-green-container-illustration-fttXVF0S0TFQrANHvn6yT0g2d_t.jpg"> &nbsp
   <img align="center" alt="João-oracle" height="50" width="50" src="https://dashboard.snapcraft.io/site_media/appmedia/2016/08/icon256.png"> &nbsp
   <img align="center" alt="João-oracle" height="50" width="50" src="https://img.icons8.com/color/2x/power-bi.png"> &nbsp
   <img align="center" alt="João-oracle" height="40" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/DAX_logo.svg/1280px-DAX_logo.svg.png"> &nbsp
