@@ -21,7 +21,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="João-oracle" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"> &nbsp
-  <img align="center" alt="João-oracle" height="40" width="40" src="https://img1.gratispng.com/20180803/azg/kisspng-microsoft-sql-server-database-query-language-inser-sql-dba-training-in-hyderabad-sql-dba-training-ins-5b643f1d16d0e2.9824259215332964130935.jpg"> &nbsp
+  <img align="center" alt="João-oracle" height="40" width="40" src="https://w7.pngwing.com/pngs/380/991/png-transparent-oracle-sql-developer-oracle-corporation-oracle-database-others-brand-virtualbox-sql.png"> &nbsp
   <img align="center" alt="João-oracle" height="50" width="50" src="https://dashboard.snapcraft.io/site_media/appmedia/2016/08/icon256.png"> &nbsp
   <img align="center" alt="João-oracle" height="50" width="50" src="https://img.icons8.com/color/2x/power-bi.png"> &nbsp
   <img align="center" alt="João-oracle" height="40" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/DAX_logo.svg/1280px-DAX_logo.svg.png"> &nbsp
