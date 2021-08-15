@@ -35,7 +35,7 @@
 </div> 
   
   
-<!--
+
   ##
   Certificações
   <div>
@@ -43,6 +43,6 @@
   <img align="center" alt="João-oracle" height="75" width="125" src="http://rms.koenig-solutions.com/Sync_data/AutoResume/logoUpload/14_Jun_2018_10_47_7_426oca%20pl_sql.jpg"> &nbsp &nbsp 
   <img align="center" alt="João-oracle" height="120" width="120" src="https://eadn-wc03-4064062.nxedge.io/cdn/wp-content/uploads/2020/02/Azure.Fundamental_Icon.png"> 
   <img align="center" alt="João-oracle" height="135" width="135" src="https://eadn-wc03-4064062.nxedge.io/cdn/wp-content/uploads/2021/04/DataAnalyst_Icon-1.png">
- </div> -->
+ </div> 
 
  
