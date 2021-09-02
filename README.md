@@ -31,7 +31,7 @@
  ##
 <div> 
   <a href="https://www.linkedin.com/in/joao-carlos-analista-dedados" target="_blank"><img align="center" alt="João-oracle" height="40" width="40"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> &nbsp
- <a href="https://www.linkedin.com/in/joao-carlos-analista-dedados" target="_blank"><img align="center" alt="João-oracle" height="50" width="50" src="https://image.flaticon.com/icons/png/128/2345/2345596.png" target="_blank"></a>
+<!-- <a href="https://www.linkedin.com/in/joao-carlos-analista-dedados" target="_blank"><img align="center" alt="João-oracle" height="50" width="50" src="https://image.flaticon.com/icons/png/128/2345/2345596.png" target="_blank"></a> -->
 </div> 
   
 
