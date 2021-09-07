@@ -6,7 +6,7 @@
 
 - <img align="center" alt="João-oracle" height="25" width="25" src="https://image.flaticon.com/icons/png/128/2091/2091418.png"> Skills: Sql, PL/Sql, Modeling, Power BI, Dax, Azure 
 
-- <img align="center" alt="João-oracle" height="25" width="25" src="https://image.flaticon.com/icons/png/128/484/484531.png"> Languages: 
+<!--- <img align="center" alt="João-oracle" height="25" width="25" src="https://image.flaticon.com/icons/png/128/484/484531.png"> Languages: 
               <img align="center" alt="João-oracle" height="25" width="25" src="https://image.flaticon.com/icons/png/128/630/630591.png">
               <img align="center" alt="João-oracle" height="25" width="25" src="https://image.flaticon.com/icons/png/128/330/330459.png">
             <!-- <img align="center" alt="João-oracle" height="25" width="25" src="https://image.flaticon.com/icons/png/128/330/330557.png"> -->
