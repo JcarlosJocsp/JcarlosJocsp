@@ -12,11 +12,11 @@
             <!-- <img align="center" alt="João-oracle" height="25" width="25" src="https://image.flaticon.com/icons/png/128/330/330557.png"> -->
 ##
 
-<!-- <div>
+ <div>
   <a href="https://github.com/JcarlosJocsp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JcarlosJocsp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JcarlosJocsp&layout=compact&langs_count=7&theme=dark"/>
-</div> -->
+</div>
   
 
 <div style="display: inline_block"><br>
